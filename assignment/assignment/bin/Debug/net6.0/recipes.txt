@@ -1,0 +1,250 @@
+Recipe ID: RCP1
+Recipe Name: Chicken Masala
+Recipe Ingredients:
+- Chicken
+- Masala
+-  Salt
+-  Pepper
+-  Paprika
+- Onion
+- Garlic
+- Chilli
+Recipe Steps:
+- 1.Prepare chicken
+- 2.Add Masala salt and pepper to chicken
+- 3.Leave chicken for 5 minutes
+- 4.put the oil in pan
+- 5.Fry onion and garlic
+- 6.Put chicken in it and stir
+- 7.put salt pepper and masala and stir it for 2 minutes
+- 8.After that add water and cook
+- 9.When it turn into paste add chilli
+Recipe Difficulty Level: Medium
+------------------------------------
+Recipe ID: RCP1
+Recipe Name: Chicken Masala
+Recipe Ingredients:
+- Chicken
+- Masala
+-  Salt
+-  Pepper
+-  Paprika
+- Onion
+- Garlic
+- Chilli
+Recipe Steps:
+- 1.Prepare chicken
+- 2.Add Masala salt and pepper to chicken
+- 3.Leave chicken for 5 minutes
+- 4.put the oil in pan
+- 5.Fry onion and garlic
+- 6.Put chicken in it and stir
+- 7.put salt pepper and masala and stir it for 2 minutes
+- 8.After that add water and cook
+- 9.When it turn into paste add chilli
+Recipe Difficulty Level: Medium
+------------------------------------
+Recipe ID: RCP2
+Recipe Name: Chicken Salad
+Recipe Ingredients:
+- Chicken
+- Salt
+- Pepper
+- Chilli
+- Oil
+- Onion
+- Yogurt
+- Carrot
+- Lettuce
+- Mayo
+Recipe Steps:
+- 1.Take a bowl and put salt pepper cilli and oil in it
+-  2.Dice a chicken and put that into the bowl and mix
+-  3.Fry that chicken on fry pan and after that let it cool down on plate
+-  4. Dice onion
+- carrot
+- lettuce and apple
+-  5. Take a bowl put yogurt
+-  mayo
+-  pepper and lime juice and mix together to make salad dressing
+-  6.Put everything together and mix
+Recipe Difficulty Level: Easy
+------------------------------------
+Recipe ID: RCP1
+Recipe Name: Chicken Masala
+Recipe Ingredients:
+- Chicken
+- Masala
+-  Salt
+-  Pepper
+-  Paprika
+- Onion
+- Garlic
+- Chilli
+Recipe Steps:
+- 1.Prepare chicken
+- 2.Add Masala salt and pepper to chicken
+- 3.Leave chicken for 5 minutes
+- 4.put the oil in pan
+- 5.Fry onion and garlic
+- 6.Put chicken in it and stir
+- 7.put salt pepper and masala and stir it for 2 minutes
+- 8.After that add water and cook
+- 9.When it turn into paste add chilli
+Recipe Difficulty Level: Medium
+------------------------------------
+Recipe ID: RCP2
+Recipe Name: Chicken Salad
+Recipe Ingredients:
+- Chicken
+- Salt
+- Pepper
+- Chilli
+- Oil
+- Onion
+- Yogurt
+- Carrot
+- Lettuce
+- Mayo
+Recipe Steps:
+- 1.Take a bowl and put salt pepper cilli and oil in it
+-  2.Dice a chicken and put that into the bowl and mix
+-  3.Fry that chicken on fry pan and after that let it cool down on plate
+-  4. Dice onion
+- carrot
+- lettuce and apple
+-  5. Take a bowl put yogurt
+-  mayo
+-  pepper and lime juice and mix together to make salad dressing
+-  6.Put everything together and mix
+Recipe Difficulty Level: Easy
+------------------------------------
+Recipe ID: RCP3
+Recipe Name: Mohinga 
+Recipe Ingredients:
+- Mohinga noodle 
+- Fish Paste
+-  Fish sauce
+- Egg
+- salt
+- Onion
+- Garlic
+- Ginger
+- Chilli flakes
+- Chilli powder
+- oil
+Recipe Steps:
+- 1. Boil Mohinga Noodle
+- 2.Put oil in pan and fry onion and garlic
+- 3.after Onion and garlic turn into brown put it aside
+-  3. Take pot and put oil in pot
+-  4. put fried onion garlic and ginger into the pot and mix with oil
+-  5. put fish paste
+-  6. put water in it and start boiling it
+-  7. put Mohinga noodle in it
+-  8. put chilli flakes and chilli powder into the pot
+-  9. After that put eggs in it and wait for 10 miniutes
+-  10. After that it is ready to eat
+Recipe Difficulty Level: Hard
+------------------------------------
+Recipe ID: RCP1
+Recipe Name: Chicken Masala
+Recipe Ingredients:
+- Chicken
+- Masala
+-  Salt
+-  Pepper
+-  Paprika
+- Onion
+- Garlic
+- Chilli
+Recipe Steps:
+- 1.Prepare chicken
+- 2.Add Masala salt and pepper to chicken
+- 3.Leave chicken for 5 minutes
+- 4.put the oil in pan
+- 5.Fry onion and garlic
+- 6.Put chicken in it and stir
+- 7.put salt pepper and masala and stir it for 2 minutes
+- 8.After that add water and cook
+- 9.When it turn into paste add chilli
+Recipe Difficulty Level: Medium
+------------------------------------
+Recipe ID: RCP2
+Recipe Name: Chicken Salad
+Recipe Ingredients:
+- Chicken
+- Salt
+- Pepper
+- Chilli
+- Oil
+- Onion
+- Yogurt
+- Carrot
+- Lettuce
+- Mayo
+Recipe Steps:
+- 1.Take a bowl and put salt pepper cilli and oil in it
+-  2.Dice a chicken and put that into the bowl and mix
+-  3.Fry that chicken on fry pan and after that let it cool down on plate
+-  4. Dice onion
+- carrot
+- lettuce and apple
+-  5. Take a bowl put yogurt
+-  mayo
+-  pepper and lime juice and mix together to make salad dressing
+-  6.Put everything together and mix
+Recipe Difficulty Level: Easy
+------------------------------------
+Recipe ID: RCP3
+Recipe Name: Mohinga 
+Recipe Ingredients:
+- Mohinga noodle 
+- Fish Paste
+-  Fish sauce
+- Egg
+- salt
+- Onion
+- Garlic
+- Ginger
+- Chilli flakes
+- Chilli powder
+- oil
+Recipe Steps:
+- 1. Boil Mohinga Noodle
+- 2.Put oil in pan and fry onion and garlic
+- 3.after Onion and garlic turn into brown put it aside
+-  3. Take pot and put oil in pot
+-  4. put fried onion garlic and ginger into the pot and mix with oil
+-  5. put fish paste
+-  6. put water in it and start boiling it
+-  7. put Mohinga noodle in it
+-  8. put chilli flakes and chilli powder into the pot
+-  9. After that put eggs in it and wait for 10 miniutes
+-  10. After that it is ready to eat
+Recipe Difficulty Level: Hard
+------------------------------------
+Recipe ID: RCP4
+Recipe Name: Fish and Chips
+Recipe Ingredients:
+- sunflower oil
+- Potatoes
+- Fillet fish
+- Vinegar
+- Flour
+- Cornflour
+- Tumeric
+- Frizzy water
+- Mayo
+- Shallot
+- parsley 
+Recipe Steps:
+- 1. Cut the potatoes and put it in frizzy water
+-  2. After that wipe that leave that potatoon the paper for 3 minutes
+-  3. Mix that potatoes with salt and vinegar then fried for 10 minutes
+-  4. To prepare the batter put cornflour tumeric and salt into frizzy water and mix it quickly
+- 5. Put the Fillet fish into batter and mix
+-  6. After that pour the oil into pan and put that fish into the pan and fry. 7. After the fillet fish turn into yellow then take it out
+-  8. After that sprinkle the persley on top of the fried fish then you can enjoy
+Recipe Difficulty Level: Medium
+------------------------------------

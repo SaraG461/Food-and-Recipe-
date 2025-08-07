@@ -1,0 +1,149 @@
+[
+  {
+    "Id": "RCP1",
+    "Name": "Chicken Masala",
+    "Ingredients": [
+      "Chicken",
+      "Pepper",
+      "Salt",
+      "Ginger",
+      "Garlic",
+      "Onion",
+      "Masala",
+      "Paprika",
+      "Water"
+    ],
+    "Steps": [
+      "dice chicken and mix chicken with garlic",
+      "after that mix that chicken with pepper and masala and leave that chicken",
+      " dice onion and garlic and after that bring pot and put oil in it",
+      " fry the onion and garlic till it turn yellow",
+      " put chicken and fry it for 3 min",
+      " after that put water in it and cook till the chicken meat is soft"
+    ],
+    "Difficulty": "Hard"
+  },
+  {
+    "Id": "RCP2",
+    "Name": "Chicken Salad",
+    "Ingredients": [
+      "Chicken",
+      " Mayo",
+      "Yogurt",
+      " Almond",
+      " Apple",
+      " salt",
+      "pepper",
+      "carrot",
+      "cucumber",
+      "paprika"
+    ],
+    "Steps": [
+      "Dice the chicken and mix the chicken with salt",
+      "pepper and paprika",
+      " after that fry the chicken with less oil and leave it a side",
+      "cut apple",
+      "cut almond",
+      "cut carrot",
+      "cut cucumber and leave it in a bowl",
+      " take a bowl and put mayo yougurt salt pepper and mix",
+      " after that put chicken almond carrot cucumber and apple and the dressing that you just make",
+      " After that mix all together "
+    ],
+    "Difficulty": "Easy"
+  },
+  {
+    "Id": "RCP3",
+    "Name": "Thai Chicken Basil",
+    "Ingredients": [
+      "Chicken",
+      "Basil leaves",
+      " Light soy sauce",
+      " Oyster sauce",
+      " sugar",
+      "chilli",
+      "garlic",
+      "dark soy sauce",
+      "green oinion "
+    ],
+    "Steps": [
+      "Dice the chicken put it in a bowl",
+      " wash basil leaves and put it at a side",
+      " take a bowl and mix light soy sauce dark soy sauce sugar and oyster sauce",
+      " mince the garlic",
+      " take fry pan and put oil in it",
+      " After that put garlic in it and fry till it turn to yellow",
+      " after that put chicken in fry pan and fry together with garlic",
+      " after that put the sauce that mix together just now and fry till chicken turn to soft",
+      " Cut the chilli and Basil leaves",
+      " After that put those into fry pan and fry together with chicken. After 5 min then it is ready to enjoy "
+    ],
+    "Difficulty": "Medium "
+  },
+  {
+    "Id": "RCP4",
+    "Name": "Mohinga",
+    "Ingredients": [
+      "chickpea flour",
+      " rice flour",
+      " trimmed lemondgrass",
+      " chilli flakes",
+      " chopped onion",
+      " mince garlic",
+      " grated garlic",
+      "groundnut oil",
+      " tumeric",
+      "paprika",
+      "mackerel fillets",
+      " fish sauce",
+      "peeled shallots",
+      "rice vermicelli noodle",
+      "boiled egg",
+      "chopped coriander"
+    ],
+    "Steps": [
+      "toasted chickpea flour in a dry frying pan until it turn to golden",
+      " toast the rice flour in the same way",
+      " pound lemondgrass garlic chilli onion ginger and make it paste",
+      " Put paste that you make just now in fry pan and add tumeric and paprika and fry together",
+      " After that put mackerel fillets and stir together",
+      "Add toasted chickpea flour and toasted rice flour until the paste is thicker",
+      " After that pour water and add fish sauce. Boil for 15 minuteswith medium heat",
+      " Add Shallots and pinch of pepper into soup",
+      " After that add rice vermicelli noodle and boil it for 7 minutes",
+      " After that put it in put and add boiled egg and chopped coriander",
+      " You can enjoy now"
+    ],
+    "Difficulty": "Hard"
+  },
+  {
+    "Id": "RCP5",
+    "Name": "Fish and Chip",
+    "Ingredients": [
+      "sunflower oil",
+      " fish fillets",
+      " Vinegar",
+      " Chpped potatoes",
+      " rasing flour",
+      "cornflour",
+      "pinch of tumeric",
+      " fizzy water",
+      " parsely leaves",
+      "shallot",
+      "mayonnaise"
+    ],
+    "Steps": [
+      "Soak the chopped potatoes in cold water for 5 minutes",
+      " After that rinse the water and mix with salt and vinegar then fry in fry pan with oil",
+      " After that put it at a side",
+      " To amke tartare sauce put mayonnaise shallots and parsely together and mix",
+      " To prepare batter take a bowl and put a pinch of salt flour tumeric and fizzy water",
+      " Mix everything together and beat the batter to get creamy",
+      " Put fillet fish in batter and fry in fry pan with sunflower oil",
+      " Fry till it turn into golden brown",
+      " After that put fried potatoes",
+      " tartare sauce  and fried fish in a plate and you can enjoy"
+    ],
+    "Difficulty": "Easy"
+  }
+]
